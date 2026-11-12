@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:navajowhite;}
+
+#Kotak {background-color: white;width:900px; margin:0px auto 0px auto}
+#Kotak2 {background-color: white;width:1000px;margin:0px auto 0px auto}
+
+#Logo {float: left;margin: 0px 0px 20px 0px}
+#Icon {float: right;}
+#Icon a {text-decoration-line: none}
+
+#Banner {margin: 20px 0px 0px 0px}
+
+#Navigation {clear: both;}
+#Navigation a {color:black;text-decoration-line: none; word-spacing:20px;font-family:Arial;border-top:solid black 1px;border-bottom:solid black 1px;margin:0px 0px 0px 0px;}
+#Navigation a:hover {color:darkblue;}
+
+#Title {color:lightgreen; font-family: Arial; border-bottom: solid 1px black; padding:5px 0px 5px 0px;}
+
+#gallery {float:left; width:650px;margin: 0px 0px 0px 10px}
+
+#gallery img {border:solid 1px black; padding:5px 5px 5px 5px; margin:0px 10px 0px 10px;}
+
+#News {float:right;width:200px;font-family: Arial;}
+#News h4 {color: blue;}
+
+#Footer {clear:both;font-family: :Arial; border-top:solid 1px black; text-align:center;padding:0px 0px 10px 0px;}

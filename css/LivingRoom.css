@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+#Box {float:left; width:1000px;margin: 0px 10px 0px 0px}
+
+#Box {border:solid 1px black; padding:5px 5px 5px 5px; margin:0px 50px 0px 20px;}
+#Box {text-align: left;}
+
+
+#Box {font-family: Arial;, background-color: #eeee;width:250px;float:left;border-top: #FFA500 solid 17px;}
+
+#Box2 {float:left; width:1000px;margin: 0px 10px 0px 0px}
+#Box2 {border:solid 1px black; padding:5px 5px 5px 5px; margin:0px 50px 0px 20px;}
+#Box2 {text-align: left;}
+#Box2 {font-family: Arial;, background-color: #eeee;width:250px;float:left;border-top: #4600FF solid 17px;}
